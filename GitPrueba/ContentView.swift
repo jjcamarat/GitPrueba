@@ -11,7 +11,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         Text("Hello World")
-//EJEMPLO Prueba        print(“Este es un proyecto de ejemplo para ver el funcionamiento de un repositorio git”)
+//EJEMPLO print(“Este es un proyecto de ejemplo para ver el funcionamiento de un repositorio git”) SUBIR
     }
 }
 
